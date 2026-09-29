@@ -6,3 +6,4 @@ liste de courses
 - glaçons
 -serviettes
 - salade
+- verre
